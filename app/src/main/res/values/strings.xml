@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Art Space App</string>
+    <string name="mona_lisa_title">The Mona Lisa</string>
+    <string name="mona_lisa_author">Leonardo da Vinci</string>
+    <string name="mona_lisa_year">1503</string>
+    <string name = "lemon_tree_title">Lemon Tree by Android</string>
+    <string name = "lemon_tree_author">Android</string>
+    <string name = "lemon_tree_year">2022</string>
+    <string name = "annunciazione_title">Annunciazione - Google Art Projec</string>
+    <string name = "annunciazione_author">Leonardo da Vinci</string>
+    <string name = "annunciazione_year">1472</string>
+    <string name = "lemon_drink_title">Lemonade Drink by Android</string>
+    <string name = "lemon_drink_author">Android</string>
+    <string name = "lemon_drink_year">2023</string>
 </resources>
